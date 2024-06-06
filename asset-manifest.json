@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/diman786.github.io/TorrentDmitriya/static/css/main.4d4837a0.css",
+    "main.js": "/diman786.github.io/TorrentDmitriya/static/js/main.4db4bd3f.js",
+    "static/js/453.ed3810f9.chunk.js": "/diman786.github.io/TorrentDmitriya/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/diman786.github.io/TorrentDmitriya/index.html",
+    "main.4d4837a0.css.map": "/diman786.github.io/TorrentDmitriya/static/css/main.4d4837a0.css.map",
+    "main.4db4bd3f.js.map": "/diman786.github.io/TorrentDmitriya/static/js/main.4db4bd3f.js.map",
+    "453.ed3810f9.chunk.js.map": "/diman786.github.io/TorrentDmitriya/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d4837a0.css",
+    "static/js/main.4db4bd3f.js"
+  ]
+}
